@@ -1,5 +1,5 @@
 # Product Management App
-This project was created as a **code challenge** for a working student position at **Check24**. The application demonstrates 
+This project was created as a **code challenge** at **Check24**. The application demonstrates 
 a implementation of the **MVVM architecture** in Android, using **Jetpack Compose** for the UI.
 
 ## Features
